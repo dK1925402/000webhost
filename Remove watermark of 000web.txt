@@ -1,0 +1,8 @@
+ 
+Remove 000Webhost Branding For Wordpress CSS Code
+
+<style> img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] { display: none;} </style>
+
+
+///I AM ALREADY USE THIS IN MY HTML FILE .  SO , DON'T USE THIS IN PROGRAM
+/// YOU CAN CHECK IN MY HTML FILE ,HOW TO USE THIS 
